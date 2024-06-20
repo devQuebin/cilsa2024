@@ -1,2 +1,2 @@
 # cilsa2024
-Repositorio bootcamp cilsa
+Este repositorio esta dedicado para subir las tareas de nivelacion del bootcamp CILSA 2024
